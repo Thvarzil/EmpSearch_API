@@ -1,0 +1,10 @@
+/Users/mac/Desktop/EmpSearch_API/bin/Debug/netcoreapp2.0/EmpSearch_API.deps.json
+/Users/mac/Desktop/EmpSearch_API/bin/Debug/netcoreapp2.0/EmpSearch_API.runtimeconfig.json
+/Users/mac/Desktop/EmpSearch_API/bin/Debug/netcoreapp2.0/EmpSearch_API.runtimeconfig.dev.json
+/Users/mac/Desktop/EmpSearch_API/bin/Debug/netcoreapp2.0/EmpSearch_API.dll
+/Users/mac/Desktop/EmpSearch_API/bin/Debug/netcoreapp2.0/EmpSearch_API.pdb
+/Users/mac/Desktop/EmpSearch_API/obj/Debug/netcoreapp2.0/EmpSearch_API.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/EmpSearch_API/obj/Debug/netcoreapp2.0/EmpSearch_API.AssemblyInfoInputs.cache
+/Users/mac/Desktop/EmpSearch_API/obj/Debug/netcoreapp2.0/EmpSearch_API.AssemblyInfo.cs
+/Users/mac/Desktop/EmpSearch_API/obj/Debug/netcoreapp2.0/EmpSearch_API.dll
+/Users/mac/Desktop/EmpSearch_API/obj/Debug/netcoreapp2.0/EmpSearch_API.pdb
