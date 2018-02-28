@@ -3302,6 +3302,9 @@
           }
         }
       },
+      "System.Data.SQLite/1.0.107": {
+        "type": "package"
+      },
       "System.Diagnostics.Contracts/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -8610,6 +8613,15 @@
         "version.txt"
       ]
     },
+    "System.Data.SQLite/1.0.107": {
+      "sha512": "SCH0B1z8dP3ab9g0YTa7dJPun9VhWP8g5XR8rbUbRDSIKUDeqkEUMFhNXD3Sv6X/1hwA1kHW+R9xegAgcwclVA==",
+      "type": "package",
+      "path": "system.data.sqlite/1.0.107",
+      "files": [
+        "system.data.sqlite.1.0.107.nupkg.sha512",
+        "system.data.sqlite.nuspec"
+      ]
+    },
     "System.Diagnostics.Contracts/4.3.0": {
       "sha512": "eelRRbnm+OloiQvp9CXS0ixjNQldjjkHO4iIkR5XH2VIP8sUB/SIpa1TdUW6/+HDcQ+MlhP3pNa1u5SbzYuWGA==",
       "type": "package",
@@ -12531,7 +12543,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.5",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "System.Data.SQLite >= 1.0.107"
     ]
   },
   "packageFolders": {
@@ -12581,6 +12594,10 @@
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
+          },
+          "System.Data.SQLite": {
+            "target": "Package",
+            "version": "[1.0.107, )"
           }
         },
         "imports": [
